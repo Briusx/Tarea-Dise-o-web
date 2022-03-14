@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+<header>
+    <div class="topnav">
+        <img src="logo.png" height="20" width="170">
+        <a href="#about">Home</a>
+        <a href="#about">Portfolio</a>
+        <a href="#about">About</a>
+        <link rel="stylesheet" href="4fotosCSS.css">
+    </div>
+</header>
+<body>
+    <div class="hero-image">
+        <div class="hero-text">
+          <h1>Project title</h1>
+          <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi eaque rem minus nulla sint dolores aspernatur voluptas recusandae excepturi sapiente</h4>
+          <button type="button1">SEE DETAILS</button>
+        </div>
+    </div>
+    <div class="columnas1">
+        <div>
+            <figure>
+                <img src="hp-portfolio-1.jpg">
+                <h2>Proyect title</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid pariatur fugit harum tenetur quas, rerum expedita minima tempora in, veniam similique voluptatem temporibus quis soluta, distinctio aperiam eveniet cupiditate sapiente.</p>
+                <button type="button">See more --></button>
+            </figure>
+            <figure>
+                <img src="hp-portfolio-1.jpg">
+                <h2>Proyect title</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid pariatur fugit harum tenetur quas, rerum expedita minima tempora in, veniam similique voluptatem temporibus quis soluta, distinctio aperiam eveniet cupiditate sapiente.</p>
+                <button type="button">See more --></button>
+            </figure>
+        </div>
+        <div>
+            <figure>
+                <img src="hp-portfolio-1.jpg">
+                <h2>Proyect title</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid pariatur fugit harum tenetur quas, rerum expedita minima tempora in, veniam similique voluptatem temporibus quis soluta, distinctio aperiam eveniet cupiditate sapiente.</p>
+                <button type="button">See more --></button>
+            </figure>
+            <figure>
+                <img src="hp-portfolio-1.jpg">
+                <h2>Proyect title</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid pariatur fugit harum tenetur quas, rerum expedita minima tempora in, veniam similique voluptatem temporibus quis soluta, distinctio aperiam eveniet cupiditate sapiente.</p>
+                <button type="button">See more --></button>
+            </figure>
+        </div>
+    </div>
+
+    <div class="grey">
+        <div class="columnas">
+            <p>
+                <p>Wanna see latest photos?</p>
+                <input type="text" placeholder="Search..">
+                <button type="button">Subscribe</button>
+            </p>
+            <p>
+                <p>Address line 1</p>
+                <p>Address line 2</p>
+                <p class="red">john@company.com</p>
+                <img src="icon-facebook.png">
+                <br>
+                <img src="icon-twitter.png">
+            </p>
+        </div>
+    </div>
+</body>
+<footer>
+    <p>Derechos reservados</p>
+</footer>
+
+
+
+</html>
