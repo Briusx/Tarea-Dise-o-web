@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+    <header>
+        <div class="topnav">
+            <img src="logo.png" height="20" width="170">
+            <a href="#about">Home</a>
+            <a href="#about">Portfolio</a>
+            <a href="#about">About</a>
+            <link rel="stylesheet" href="aboutCSS.css">
+        </div>
+    </header>
+<body>
+    <div class="hero-image">
+        <div class="hero-text">
+          <h1>About</h1>
+        </div>
+    </div>
+    <section>
+        <div class="lorem">
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo possimus placeat veniam necessitatibus! Totam esse id, accusantium rem culpa repellat, atque odio, est suscipit porro neque ad molestias quas quis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab obcaecati sint odio alias corrupti totam deleniti provident culpa sunt necessitatibus! Accusantium dignissimos officia itaque accusamus quas eius vero consequatur minus?</p>
+            <br>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique vitae est, iure, voluptates sit mollitia error placeat quod asperiores necessitatibus unde vero repellat totam. Eligendi doloribus natus nam velit tenetur.</p>
+        </div>
+    </section>
+    <div class="grey">
+        <div class="columnas">
+            <p>
+                <p>Wanna see latest photos?</p>
+                <input type="text" placeholder="Search..">
+                <button type="button">Subscribe</button>
+            </p>
+            <p>
+                <p>Address line 1</p>
+                <p>Address line 2</p>
+                <p class="red">john@company.com</p>
+                <img src="icon-facebook.png">
+                <br>
+                <img src="icon-twitter.png">
+            </p>
+        </div>
+    </div>
+</body>
+<footer>
+    <p>Derechos reservados</p>
+</footer>
+
+
+
+</html>
